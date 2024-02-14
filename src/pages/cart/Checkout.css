@@ -1,0 +1,12 @@
+.checkout-body {
+    width: 100%;
+    height: calc(100vh - 155px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.checkout-body p {
+    font-size: xx-large;
+    font-weight: bold;
+}
